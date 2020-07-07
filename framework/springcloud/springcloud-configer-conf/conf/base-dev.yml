@@ -1,1 +1,3 @@
 my-name: my开发环境3
+server:
+  port: 9999
